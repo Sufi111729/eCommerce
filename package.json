@@ -1,0 +1,12 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "## Overview Shahana Libaas is an eCommerce platform designed for selling stylish and high-quality clothing. This website offers an easy-to-navigate shopping experience with secure payment options and efficient order management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
